@@ -1,0 +1,8 @@
+body{
+    background-color: pink;
+    color: rgb(0, 0, 0);
+}
+form>label{
+    display: pink;
+    margin: 10px 0;
+}
